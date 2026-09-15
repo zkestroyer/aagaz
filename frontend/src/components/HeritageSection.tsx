@@ -26,7 +26,7 @@ export default function HeritageSection() {
 
         <Reveal type="clip-path" delay={0.4} className="w-full aspect-[4/5] md:aspect-[21/9] bg-sand relative overflow-hidden">
           <img 
-            src="https://images.unsplash.com/photo-1584252516641-7667bf8d5e82?q=80&w=2000&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1610312278520-bcc893a3ff1d?q=80&w=2000&auto=format&fit=crop" 
             alt="Pakistani Craftsmanship" 
             loading="lazy"
             className="w-full h-full object-cover object-top transform transition-transform duration-[3000ms] ease-out hover:scale-[1.03]"
