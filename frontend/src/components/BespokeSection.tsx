@@ -17,7 +17,7 @@ export default function BespokeSection() {
           <div className="flex-1 w-full order-2 lg:order-1">
             <Reveal type="clip-path" delay={0.2} className="w-full aspect-[4/5] lg:aspect-[3/4] bg-sand relative overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1593030761756-1d8ae574672e?q=80&w=1600&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1537832816519-689ad163238b?q=80&w=1600&auto=format&fit=crop" 
                 alt="Bespoke Tailoring" 
                 loading="lazy"
                 className="w-full h-full object-cover transform transition-transform duration-[2000ms] hover:scale-[1.03]"
